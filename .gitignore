@@ -156,3 +156,7 @@ vendor/
 # CircleCI
 .circleci/generated_config.yml
 .circleci/storage
+
+# Pods
+ios/build
+ios/pods
